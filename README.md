@@ -1,2 +1,2 @@
 # CS-97SI-Introduction-to-Programming-Contests
-All of the code include: Lecture slides &amp;&amp; Practice problems.
+All of the materials include: Lecture slides &amp;&amp; Practice Problems' code.
